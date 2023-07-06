@@ -1,2 +1,2 @@
-# Audited
-Green Rolling On the Floor Laughing
+# Smart Contract Audited
+Let us give you more security
